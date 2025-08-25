@@ -15,6 +15,8 @@ If "mul" → perform multiplication.
 If "div" → perform division (only if denominator ≠ 0).
 Return the result and print it.
 
+
+
 PROGRAM-2:
 The logic I used in Problem-2 is very simple and clear:
 
